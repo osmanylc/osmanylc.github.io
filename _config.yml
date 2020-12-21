@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/documents/osmany_corteguera_resume.pdf
 
-url: https://osmanylc.github.io
+url: https://osmany.dev
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
