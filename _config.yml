@@ -34,7 +34,7 @@ disqus:
   # categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-twitter: mytwitter
+twitter: olcorte
 # instagram: myinstagram
 # pinterest: mypinterest
 linkedin: osmanyc
@@ -52,18 +52,12 @@ github: osmanylc
 # email: contact (at) osmany (dot) dev
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  osmany:
+    name: Osmany Corteguera
+    bio: Software Engineer
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: olcorte
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -72,7 +66,7 @@ width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
-  enabled: false
+  enabled: true
   sort_reverse: true # display recent posts first
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
