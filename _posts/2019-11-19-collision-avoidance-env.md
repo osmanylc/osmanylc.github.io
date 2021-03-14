@@ -9,10 +9,11 @@ category: project
 author: osmany
 ---
 
-## Project Link: [Deep RL Collision Avoidance](https://github.com/osmanylc/deep-rl-collision-avoidance)
-## Project Report: [project_report.pdf]({{ site.url }}/assets/documents/collision_avoidance_env_report.pdf)
-
 ![Sample encounter path]({{ site.url }}/assets/images/encounter_path.png)
+
+:link: Project Link: [Deep RL Collision Avoidance](https://github.com/osmanylc/deep-rl-collision-avoidance)
+
+:book: Project Report: [project_report.pdf]({{ site.url }}/assets/documents/collision_avoidance_env_report.pdf)
 
 An environment for simulating encounters between aircraft for the purpose of creating collision avoidance systems. It is compatible with the collection of deep reinforcement learning models made available by OpenAI's baselines repo.
 
