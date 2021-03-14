@@ -4,8 +4,7 @@ layout: post
 date: 2020-05-18 00:00
 tag: reinforcement-learning
 projects: true
-hidden: true
-category: project
+category: projects
 author: osmany
 ---
 

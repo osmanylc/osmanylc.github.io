@@ -4,8 +4,7 @@ layout: post
 date: 2016-07-23 00:00
 tag: web-development
 projects: true
-hidden: true
-category: project
+category: projects
 author: osmany
 ---
 
