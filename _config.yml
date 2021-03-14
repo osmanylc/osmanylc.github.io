@@ -2,8 +2,8 @@
 name: Osmany Corteguera
 bio: Software Engineer
 
-# twitter summary info
-description: Place where I post the stuff I'm working on.
+# website summary info
+description: Personal website where I showcase my projects and write about stuff I'm working on.
 
 # if it's an external image, update below for true
 # better with square images
@@ -49,7 +49,7 @@ github: osmanylc
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-# email: contact (at) osmany (dot) dev
+# email: contact (at) website url
 
 authors:
   osmany:
